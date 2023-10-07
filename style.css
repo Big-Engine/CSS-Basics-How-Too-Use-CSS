@@ -1,0 +1,36 @@
+
+div{
+  display: inline-block;
+  width: 287px;
+  padding: 80px;
+  text-align: center;
+  font-family: nunito;
+  font-size: 40px;
+  margin: 15px;
+  border-radius: 10px;
+}
+/* :nth-child() Selector */
+div:nth-child(1){
+background-color: Tomato;
+}
+div:nth-child(2){
+background-color: Orange;
+}
+div:nth-child(3){
+background-color: DodgerBlue;
+}
+div:nth-child(4){
+background-color: MediumSeaGreen;
+}
+div:nth-child(5){
+background-color: Gray;
+}
+div:nth-child(6){
+background-color: SlateBlue;
+}
+div:nth-child(7){
+background-color: Violet;
+}
+div:nth-child(8){
+background-color: LightGray;
+}
